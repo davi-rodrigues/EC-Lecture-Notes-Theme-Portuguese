@@ -1,3 +1,8 @@
+**This is a fork on https://github.com/sohamch08/Eye-Candy-Lecture-Notes-Theme**. 
+
+This fork is identical to the original (by the time it was forked, March 2024), apart from translanting some enviroment names to Portuguese.
+
+
 # Eye-Candy-Lecture-Notes-Theme
 This is a Eye Candy lecture note taking theme I have created for my personal course lecture notes. If you want to check an actual example in using this theme. Then you can check my [Analysis Lecture Notes](analysis_class-note.pdf). If you want to just view some pages of using this theme. Here check these pages
 
